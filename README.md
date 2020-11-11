@@ -4,7 +4,7 @@
 
 ### Followed the syllabus down below
 EDWITH Boostcourse : Data Science with Python \
-https://www.edwith.org/boostcourse-ds-510/joinLectures/28137 \
+https://www.edwith.org/boostcourse-ds-510/joinLectures/28137 
 
 ### Requirements
     import pandas as pd
