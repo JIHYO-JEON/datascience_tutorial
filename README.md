@@ -13,13 +13,13 @@ https://www.edwith.org/boostcourse-ds-510/joinLectures/28137 \
     import matplotlib.pyplot as plt
     
 ### Used data from Korea
-https://www.data.go.kr/ \
-* Practice_1. Hospital/ Doctor's office info data \
-* Practice_2. Health data \
+https://www.data.go.kr/ 
+* Practice_1. Hospital/ Doctor's office info data 
+* Practice_2. Health data 
 * Practice_3. K-beauty export data
 
 ## Machine Learning with Scikitlearn
 
 ### Extra Projects: Practice with Kaggle data
-* Project_1. diabetes_prediction\
+* Project_1. diabetes_prediction
     data from https://www.kaggle.com/uciml/pima-indians-diabetes-database
