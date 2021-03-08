@@ -25,4 +25,4 @@ https://www.data.go.kr/
     data from [Diabetes DB](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 
 ### Kaggle Competition Submission
-* 1. Titanic.ipynb - [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic/leaderboard)
+1. Titanic.ipynb - [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic/leaderboard)
