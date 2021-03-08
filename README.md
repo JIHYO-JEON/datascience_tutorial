@@ -24,5 +24,7 @@ https://www.data.go.kr/
 * Project_1. diabetes_prediction
     data from [Diabetes DB](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 
-### Kaggle Competition Submission
+##
+
+## Kaggle Competition Submission
 1. Titanic.ipynb - [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic/leaderboard)
